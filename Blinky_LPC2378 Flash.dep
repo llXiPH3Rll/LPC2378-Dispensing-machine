@@ -1,0 +1,5 @@
+Dependencies for Project 'Blinky', Target 'LPC2378 Flash': (DO NOT MODIFY !)
+F (.\LPC2300.s)(0x639B384C)(--cpu ARM7TDMI -g --apcs=interwork -I C:\Keil4\ARM\RV31\INC-I C:\Keil4\ARM\CMSIS\Include-I C:\Keil4\ARM\Inc\Philips--list .\flash\lpc2300.lst --xref -o .\flash\lpc2300.o --depend .\flash\lpc2300.d)
+F (.\Blinky.c)(0x639B384B)(-c --cpu ARM7TDMI -g -O0 --apcs=interwork -I C:\Keil4\ARM\RV31\INC-I C:\Keil4\ARM\CMSIS\Include-I C:\Keil4\ARM\Inc\Philips-o .\flash\blinky.o --depend .\flash\blinky.d)
+F (.\LCD_4bit.c)(0x639B384C)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\Philips -o ".\Flash\lcd_4bit.o" --depend ".\Flash\lcd_4bit.d")
+F (.\Abstract.txt)(0x639B384B)()
